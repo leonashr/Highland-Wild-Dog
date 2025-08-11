@@ -117,13 +117,13 @@ Lisensi default: **CC BY 4.0** untuk dokumentasi dan data non-sensitif. Untuk sk
 
 Jika menggunakan data atau analisis dari repositori ini, mohon sitasi sebagai berikut (contoh):
 
-> Numberi, L.A., Surbakti, S., Maury, H.K. (2025). *New Guinea Highland Wild Dog (NGHWD) dataset and analyses*. GitHub repository. DOI: `doi:xx.xxxx/xxxxx` (jika tersedia)
+> Numberi, L.A., Surbakti, S., Maury, H.K. (2025). *New Guinea Highland Wild Dog (NGHWD) dataset and analyses*. GitHub repository.
 
 ---
 
 ## Kontak
 
-* Leonardo A. Numberi — `youremail@example.com`
+* Leonardo A. Numberi — `leoashr@gmail.com`
 * Tim penelitian: Suriani Surbakti, Hendra K. Maury
 
 ---
@@ -136,9 +136,4 @@ Jika menggunakan data atau analisis dari repositori ini, mohon sitasi sebagai be
 
 ---
 
-Terima kasih telah berkontribusi! Jika mau, saya bisa:
-
-* Menghasilkan file README.md ini dalam format markdown dan menaruh contoh skrip di folder `scripts/`.
-* Membuat skrip Python contoh untuk mengonversi CSV observasi menjadi GeoJSON.
-
-Mau saya lanjutkan dengan membuat salah satu file contoh? Pilih: **(A)** `README.md` markdown file siap pakai, **(B)** contoh skrip Python `occurrence_to_map.py`, **(C)** contoh R untuk analisis morfometrik, **(D)** pipeline BLAST/MAFFT untuk data sekuens.
+Terima kasih telah berkontribusi!
