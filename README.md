@@ -1,9 +1,5 @@
 <p align="center">
-  <strong>New Guinea Highland Wild Dog (NGHWD)</strong>
-</p>
-
-<p align="right"
-  <strong> Anjing Pegunungan Papua </strong>
+  <strong># New Guinea Highland Wild Dog (NGHWD)</strong>
 </p>
 
 **Singkatan:** NGHWD — *New Guinea Highland Wild Dog*
