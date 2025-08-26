@@ -1,4 +1,6 @@
-# New Guinea Highland Wild Dog (NGHWD)
+<p align="center">
+  <strong>New Guinea Highland Wild Dog (NGHWD)</strong>
+</p>
 
 **Singkatan:** NGHWD — *New Guinea Highland Wild Dog*
 
